@@ -1,1 +1,1 @@
-My first readme
+oluman bugey
